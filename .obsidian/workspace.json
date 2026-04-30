@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "ed0ef8dabaf47bd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b7723191ce3b4e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48d8f6d750aece7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "コンテンツ/外部参考資料/マーケティング・集客.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "マーケティング・集客"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1ef2c71a4f711671",
+    "type": "split",
+    "children": [
+      {
+        "id": "24446415f4fac080",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e28c321d7a71ec5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "ファイルエクスプローラ"
+            }
+          },
+          {
+            "id": "15a6f32f743cd941",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "65ba90fcbf765a13",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d7f0224843ecf20c",
+    "type": "split",
+    "children": [
+      {
+        "id": "16f48f2b7bb1196d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "899eae87678c47ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "日記/20260423.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "20260423へのバックリンク"
+            }
+          },
+          {
+            "id": "6347fa3d0450f31f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "日記/20260423.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "20260423からのアウトゴーイングリンク"
+            }
+          },
+          {
+            "id": "632ffa846770b043",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "タグ"
+            }
+          },
+          {
+            "id": "3278f689afc3c76a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "すべてのプロパティ"
+            }
+          },
+          {
+            "id": "32b67a76587917fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日記/20260423.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "20260423のアウトライン"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:クイックスイッチャーを開く": false,
+      "graph:グラフビューを開く": false,
+      "canvas:新規キャンバスを作成": false,
+      "daily-notes:今日のデイリーノートを開く": false,
+      "templates:テンプレートを挿入": false,
+      "command-palette:コマンドパレットを開く": false,
+      "bases:新規ベースを作成": false
+    }
+  },
+  "active": "48d8f6d750aece7d",
+  "lastOpenFiles": [
+    "コンテンツ/外部参考資料/恋愛・マッチングアプリ.md",
+    "エージェント/カスタマーサポート/状況別コーチングシナリオ集.md",
+    "顧客管理/サロン生プロフィール/堀口伸悟.md",
+    "顧客管理/サロン生プロフィール/ryoya.md",
+    "顧客管理/サロン生プロフィール/naokiオンラインパーソナル.md",
+    "顧客管理/サロン生プロフィール/にしもと.md",
+    "顧客管理/サロン生プロフィール/颯太.md",
+    "顧客管理/サロン生プロフィール/拓磨.md",
+    "顧客管理/サロン生プロフィール/りくと.md",
+    "顧客管理/サロン生プロフィール/りゅうま.md",
+    "顧客管理/サロン生プロフィール/じゅんき.md",
+    "顧客管理/サロン生プロフィール/仲摩.md",
+    "顧客管理/サロン生プロフィール/悠樹.md",
+    "顧客管理/サロン生プロフィール/滝本.md",
+    "顧客管理/サロン生プロフィール/まさき.md",
+    "顧客管理/サロン生プロフィール/つばさ.md",
+    "顧客管理/サロン生プロフィール/飯塚.md",
+    "顧客管理/サロン生プロフィール/えいすけ.md",
+    "顧客管理/サロン生プロフィール/小川.md",
+    "顧客管理/サロン生プロフィール/加藤（1215）.md",
+    "顧客管理/サロン生プロフィール/ゆうき.md",
+    "顧客管理/サロン生プロフィール/裕樹.md",
+    "顧客管理/サロン生プロフィール/ひかる.md",
+    "顧客管理/サロン生プロフィール/naoki.md",
+    "顧客管理/サロン生プロフィール/よしと.md",
+    "顧客管理/サロン生プロフィール/大橋.md",
+    "無題のファイル.canvas",
+    "Claudeデイリーメモ",
+    "エージェント/カスタマーサポート/添削基準",
+    "事務・運営/Claudeデイリーメモ",
+    "scripts/save_daily_memo.py",
+    "scripts",
+    "事務・運営/日記/2026/04",
+    "事務・運営/日記/2026",
+    "事務・運営/日記",
+    "気づきメモ/自分/習慣",
+    "気づきメモ/自分/思考の癖"
+  ]
+}
