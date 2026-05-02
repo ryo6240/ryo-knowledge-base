@@ -11,7 +11,7 @@ from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # ======= 設定 =======
-MEMO_DIR = Path("/Users/kawairyouhei/ナレッジ/Claudeデイリーメモ")
+MEMO_DIR = Path("/Users/kawairyouhei/ナレッジ/事務・運営/Claudeデイリーメモ")
 PROJECTS_DIR = Path.home() / ".claude" / "projects"
 JST = timezone(timedelta(hours=9))
 TODAY = datetime.now(JST).strftime("%Y-%m-%d")
