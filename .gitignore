@@ -1,3 +1,6 @@
 .DS_Store
 *.xlsx
 .claude/
+scripts/.env*
+scripts/weekly_report_state.json
+scripts/weekly_report.log
